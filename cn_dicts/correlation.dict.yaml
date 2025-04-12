@@ -4,7 +4,7 @@
 # ------- 关联词库4字词汇-------
 ---
 name: correlation
-version: "2025-04-11 21:57"
+version: "2025-04-12 10:32"
 sort: by_weight
 ...
 啊啊啊啊	a a a a	1000
@@ -219254,6 +219254,8 @@ sort: by_weight
 就一站路	jiù yí zhàn lù	144
 就一张图	jiù yì zhāng tú	270
 就一直挂	jiù yì zhí guà	258
+就以之前	jiù yǐ zhī qián	124
+就医之前	jiù yī zhī qián	119
 酒隐安陆	jiǔ yǐn ān lù	71
 酒瘾犯了	jiǔ yǐn fàn le	131
 九阴九阳	jiǔ yīn jiǔ yáng	256
@@ -414173,6 +414175,7 @@ sort: by_weight
 外贸交易	wài mào jiāo yì	266
 外贸结构	wài mào jié gòu	313
 外贸进口	wài mào jìn kǒu	283
+外贸金融	wài mào jīn róng	124
 外贸经济	wài mào jīng jì	341
 外贸经理	wài mào jīng lǐ	328
 外贸经验	wài mào jīng yàn	298
