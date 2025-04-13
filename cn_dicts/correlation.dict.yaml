@@ -4,7 +4,7 @@
 # ------- 关联词库4字词汇-------
 ---
 name: correlation
-version: "2025-04-13 14:57"
+version: "2025-04-13 21:23"
 sort: by_weight
 ...
 啊啊啊啊	a a a a	1000
@@ -22323,6 +22323,7 @@ sort: by_weight
 被人伺候	bèi rén cì hou	207
 被人打得	bèi rén dǎ de	1
 被人打劫	bèi rén dǎ jié	221
+被人打了	bèi rén dǎ le	97
 被人打伤	bèi rén dǎ shāng	295
 被人打死	bèi rén dǎ sǐ	385
 被人低估	bèi rén dī gū	304
@@ -45759,6 +45760,7 @@ sort: by_weight
 常不常见	cháng bù cháng jiàn	116
 肠补肠经	cháng bǔ cháng jīng	105
 唱不唱呀	chàng bú chàng ya	324
+常不常用	cháng bù cháng yòng	107
 长不超过	cháng bù chāo guò	484
 长不出来	cháng bù chū lái	399
 唱不出来	chàng bù chū lái	341
@@ -176132,6 +176134,7 @@ sort: by_weight
 诲尔谆谆	huì ěr zhūn zhūn	32
 惠发百货	huì fā bǎi huò	1
 挥发焙烧	huī fā bèi shāo	71
+会发布到	huì fā bù dào	138
 会发大财	huì fā dà cái	314
 辉发古城	huī fā gǔ chéng	85
 惠发街道	huì fā jiē dào	131
@@ -328420,6 +328423,7 @@ sort: by_weight
 嚷嚷你妈	rāng rang nǐ mā	315
 攘攘熙熙	rǎng rǎng xī xī	116
 让人不适	ràng rén bú shì	386
+让人打了	ràng rén dǎ le	97
 让人反胃	ràng rén fǎn wèi	345
 让人家给	ràng rén jiā gěi	409
 让人惊呼	ràng rén jīng hū	355
