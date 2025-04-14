@@ -4,7 +4,7 @@
 # ------- 联想词库5字及以上长词-------
 ---
 name: associational
-version: "2025-04-14 21:29"
+version: "2025-04-14 23:02"
 sort: by_weight
 ...
 阿巴拉契亚	ā bā lā qì yà	10
@@ -3480,6 +3480,7 @@ sort: by_weight
 版本太低了	bǎn běn tài dī le	10
 版本中上线	bǎn běn zhōng shàng xiàn	10
 版本中推出	bǎn běn zhōng tuī chū	10
+板壁的厚度	bǎn bì de hòu dù	10
 斑驳的城墙	bān bó de chéng qiáng	10
 斑驳的光影	bān bó de guāng yǐng	10
 斑驳的痕迹	bān bó de hén jì	10
@@ -7350,7 +7351,7 @@ sort: by_weight
 必要的牺牲	bì yào de xī shēng	10
 必要的行动	bì yào de xíng dòng	10
 必要的行政	bì yào de xíng zhèng	10
-必要的休息	bì yào de xiū xī	10
+必要的休息	bì yào de xiū xi	10
 必要的营养	bì yào de yíng yǎng	10
 必要的运动	bì yào de yùn dòng	10
 必要的证据	bì yào de zhèng jù	10
@@ -10333,7 +10334,7 @@ sort: by_weight
 不好好听讲	bù hǎo hǎo tīng jiǎng	10
 不好好听课	bù hǎo hǎo tīng kè	10
 不好好想想	bù hǎo hǎo xiǎng xiǎng	10
-不好好休息	bù hǎo hǎo xiū xī	10
+不好好休息	bù hǎo hǎo xiū xi	10
 不好好学习	bù hǎo hǎo xué xí	10
 不好好珍惜	bù hǎo hǎo zhēn xī	10
 不好说出口	bù hǎo shuō chū kǒu	10
@@ -13547,7 +13548,7 @@ sort: by_weight
 不注意卫生	bú zhù yì wèi shēng	10
 不注意细节	bú zhù yì xì jié	10
 不注意形象	bú zhù yì xíng xiàng	10
-不注意休息	bú zhù yì xiū xī	10
+不注意休息	bú zhù yì xiū xi	10
 不注意饮食	bú zhù yì yǐn shí	10
 不住在一起	bú zhù zài yì qǐ	10
 不注重保养	bù zhù zhòng bǎo yǎng	10
@@ -19113,7 +19114,7 @@ sort: by_weight
 充分的信任	chōng fèn de xìn rèn	10
 充分的信息	chōng fèn de xìn xī	10
 充分的信心	chōng fèn de xìn xīn	10
-充分的休息	chōng fèn de xiū xī	10
+充分的休息	chōng fèn de xiū xi	10
 充分的展示	chōng fèn de zhǎn shì	10
 充分的展现	chōng fèn de zhǎn xiàn	10
 充分的证据	chōng fèn de zhèng jù	10
@@ -19526,7 +19527,7 @@ sort: by_weight
 充足的水源	chōng zú de shuǐ yuán	10
 充足的现金	chōng zú de xiàn jīn	10
 充足的信心	chōng zú de xìn xīn	10
-充足的休息	chōng zú de xiū xī	10
+充足的休息	chōng zú de xiū xi	10
 充足的养分	chōng zú de yǎng fèn	10
 充足的阳光	chōng zú de yáng guāng	10
 充足的氧气	chōng zú de yǎng qì	10
@@ -33975,13 +33976,13 @@ sort: by_weight
 短暂的相处	duǎn zàn de xiāng chǔ	10
 短暂的相聚	duǎn zàn de xiāng jù	10
 短暂的幸福	duǎn zàn de xìng fú	10
-短暂的休息	duǎn zàn de xiū xī	10
+短暂的休息	duǎn zàn de xiū xi	10
 短暂的休整	duǎn zàn de xiū zhěng	10
 短暂的一生	duǎn zàn de yì shēng	10
 短暂而美好	duǎn zàn ér měi hǎo	10
 短暂停留后	duǎn zàn tíng liú hòu	10
 短暂性失忆	duǎn zàn xìng shī yì	10
-短暂休息后	duǎn zàn xiū xī hòu	10
+短暂休息后	duǎn zàn xiū xi hòu	10
 锻造铝合金	duàn zào lǚ hé jīn	10
 端着铁饭碗	duān zhe tiě fàn wǎn	10
 端正的态度	duān zhèng de tài dù	10
@@ -34219,6 +34220,7 @@ sort: by_weight
 顿巴斯战争	dùn bā sī zhàn zhēng	10
 钝刀子割肉	dùn dāo zi gē ròu	10
 盾构法施工	dùn gòu fǎ shī gōng	10
+盾构法隧道	dùn gòu fǎ suì dào	10
 盾构机刀盘	dùn gòu jī dāo pán	10
 盾构机始发	dùn gòu jī shǐ fā	10
 钝果寄生属	dùn guǒ jì shēng shǔ	10
@@ -34747,7 +34749,7 @@ sort: by_weight
 多为一过性	duō wéi yí guò xìng	10
 多维元素片	duō wéi yuán sù piàn	10
 多文件上传	duō wén jiàn shàng chuán	10
-多卧床休息	duō wò chuáng xiū xī	10
+多卧床休息	duō wò chuáng xiū xi	10
 多细胞生物	duō xì bāo shēng wù	10
 多喜欢你的	duō xǐ huān nǐ de	10
 多喜欢他的	duō xǐ huān tā de	10
@@ -34774,7 +34776,7 @@ sort: by_weight
 多项选择题	duō xiàng xuǎn zé tí	10
 多谐振荡器	duō xié zhèn dàng qì	10
 多形性红斑	duō xíng xìng hóng bān	10
-多休息几天	duō xiū xī jǐ tiān	10
+多休息几天	duō xiū xi jǐ tiān	10
 多学点东西	duō xué diǎn dōng xi	10
 多学点知识	duō xué diǎn zhī shí	10
 多学科合作	duō xué kē hé zuò	10
@@ -35002,7 +35004,7 @@ sort: by_weight
 多注意安全	duō zhù yì ān quán	10
 多注意观察	duō zhù yì guān chá	10
 多注意身体	duō zhù yì shēn tǐ	10
-多注意休息	duō zhù yì xiū xī	10
+多注意休息	duō zhù yì xiū xi	10
 多注意一点	duō zhù yì yì diǎn	10
 多注意饮食	duō zhù yì yǐn shí	10
 多赚一点钱	duō zhuàn yì diǎn qián	10
@@ -36369,7 +36371,7 @@ sort: by_weight
 法定所有人	fǎ dìng suǒ yǒu rén	10
 法定刑以下	fǎ dìng xíng yǐ xià	10
 法定休假日	fǎ dìng xiū jià rì	10
-法定休息日	fǎ dìng xiū xī rì	10
+法定休息日	fǎ dìng xiū xi rì	10
 法定准备金	fǎ dìng zhǔn bèi jīn	10
 法定准备率	fǎ dìng zhǔn bèi lǜ	10
 法定最高刑	fǎ dìng zuì gāo xíng	10
@@ -38524,7 +38526,7 @@ sort: by_weight
 放松的心情	fàng sōng de xīn qíng	10
 放松的心态	fàng sōng de xīn tài	10
 放松和享受	fàng sōng hé xiǎng shòu	10
-放松和休息	fàng sōng hé xiū xī	10
+放松和休息	fàng sōng hé xiū xi	10
 放松了警惕	fàng sōng le jǐng tì	10
 放松了心情	fàng sōng le xīn qíng	10
 放松了许多	fàng sōng le xǔ duō	10
@@ -42524,7 +42526,7 @@ sort: by_weight
 服务青少年	fú wù qīng shào nián	10
 服务区出口	fú wù qū chū kǒu	10
 服务区入口	fú wù qū rù kǒu	10
-服务区休息	fú wù qū xiū xī	10
+服务区休息	fú wù qū xiū xi	10
 服务全方位	fú wù quán fāng wèi	10
 服务全覆盖	fú wù quán fù gài	10
 服务全过程	fú wù quán guò chéng	10
@@ -43265,7 +43267,7 @@ sort: by_weight
 该项目完成	gāi xiàng mù wán chéng	10
 改写了历史	gǎi xiě le lì shǐ	10
 改性聚丙烯	gǎi xìng jù bǐng xī	10
-该休息休息	gāi xiū xī xiū xī	10
+该休息休息	gāi xiū xi xiū xi	10
 该选哪一个	gāi xuǎn nǎ yí gè	10
 该选择什么	gāi xuǎn zé shén me	10
 盖亚奥特曼	gài yà ào tè màn	10
@@ -44278,6 +44280,7 @@ sort: by_weight
 港务管理局	gǎng wù guǎn lǐ jú	10
 钢箱梁吊装	gāng xiāng liáng diào zhuāng	10
 钢芯铝绞线	gāng xīn lǚ jiǎo xiàn	10
+刚性防水层	gāng xìng fáng shuǐ céng	10
 刚需购房者	gāng xū gòu fáng zhě	10
 刚需和改善	gāng xū hé gǎi shàn	10
 刚需买房者	gāng xū mǎi fáng zhě	10
@@ -45981,6 +45984,7 @@ sort: by_weight
 各领域合作	gè lǐng yù hé zuò	10
 各领域融合	gè lǐng yù róng hé	10
 各领域专家	gè lǐng yù zhuān jiā	10
+各楼层高度	gè lóu céng gāo dù	10
 格鲁吉亚人	gé lǔ jí yà rén	10
 格鲁吉亚语	gé lǔ jí yà yǔ	10
 格鲁曼公司	gé lǔ màn gōng sī	10
@@ -48311,8 +48315,8 @@ sort: by_weight
 公共卫生学	gōng gòng wèi shēng xué	10
 公共洗手间	gōng gòng xǐ shǒu jiān	10
 公共行政学	gōng gòng xíng zhèng xué	10
-公共休息区	gōng gòng xiū xī qū	10
-公共休息室	gōng gòng xiū xī shì	10
+公共休息区	gōng gòng xiū xi qū	10
+公共休息室	gōng gòng xiū xi shì	10
 公共选修课	gōng gòng xuǎn xiū kè	10
 公共养老金	gōng gòng yǎng lǎo jīn	10
 公共艺术品	gōng gòng yì shù pǐn	10
@@ -48589,7 +48593,7 @@ sort: by_weight
 公路客运站	gōng lù kè yùn zhàn	10
 公路赛车手	gōng lù sài chē shǒu	10
 公路收费站	gōng lù shōu fèi zhàn	10
-公路休息站	gōng lù xiū xī zhàn	10
+公路休息站	gōng lù xiū xi zhàn	10
 公路养路费	gōng lù yǎng lù fèi	10
 公路与桥梁	gōng lù yǔ qiáo liáng	10
 公路自行车	gōng lù zì xíng chē	10
@@ -49879,7 +49883,7 @@ sort: by_weight
 工作和生活	gōng zuò hé shēng huó	10
 工作和事业	gōng zuò hé shì yè	10
 工作和收入	gōng zuò hé shōu rù	10
-工作和休息	gōng zuò hé xiū xī	10
+工作和休息	gōng zuò hé xiū xi	10
 工作和休闲	gōng zuò hé xiū xián	10
 工作和学习	gōng zuò hé xué xí	10
 工作和压力	gōng zuò hé yā lì	10
@@ -50259,7 +50263,7 @@ sort: by_weight
 谷丙转氨酶	gǔ bǐng zhuǎn ān méi	10
 顾不上吃饭	gù bú shàng chī fàn	10
 顾不上孩子	gù bú shàng hái zi	10
-顾不上休息	gù bú shàng xiū xī	10
+顾不上休息	gù bú shàng xiū xi	10
 谷草转氨酶	gǔ cǎo zhuǎn ān méi	10
 古长城遗址	gǔ cháng chéng yí zhǐ	10
 固城湖螃蟹	gù chéng hú páng xiè	10
@@ -52548,7 +52552,7 @@ sort: by_weight
 贵安新天地	guì ān xīn tiān dì	10
 贵宾金环会	guì bīn jīn huán huì	10
 贵宾楼饭店	guì bīn lóu fàn diàn	10
-贵宾休息室	guì bīn xiū xī shì	10
+贵宾休息室	guì bīn xiū xi shì	10
 鬼才设计师	guǐ cái shè jì shī	10
 鬼吹灯系列	guǐ chuī dēng xì liè	10
 轨道半长轴	guǐ dào bàn cháng zhóu	10
@@ -56664,7 +56668,7 @@ sort: by_weight
 好好地生活	hǎo hǎo de shēng huó	10
 好好的说话	hǎo hǎo de shuō huà	10
 好好的享受	hǎo hǎo de xiǎng shòu	10
-好好的休息	hǎo hǎo de xiū xī	10
+好好的休息	hǎo hǎo de xiū xi	10
 好好的学习	hǎo hǎo de xué xí	10
 好好的照顾	hǎo hǎo de zhào gù	10
 好好的珍惜	hǎo hǎo de zhēn xī	10
@@ -56708,9 +56712,9 @@ sort: by_weight
 好好想想吧	hǎo hǎo xiǎng xiǎng ba	10
 好好想想你	hǎo hǎo xiǎng xiǎng nǐ	10
 好好写作业	hǎo hǎo xiě zuò yè	10
-好好休息啊	hǎo hǎo xiū xī a	10
-好好休息吧	hǎo hǎo xiū xī ba	10
-好好休息下	hǎo hǎo xiū xī xià	10
+好好休息啊	hǎo hǎo xiū xi a	10
+好好休息吧	hǎo hǎo xiū xi ba	10
+好好休息下	hǎo hǎo xiū xi xià	10
 好好学习啊	hǎo hǎo xué xí a	10
 好好学习吧	hǎo hǎo xué xí ba	10
 好好学习的	hǎo hǎo xué xí de	10
@@ -57636,7 +57640,7 @@ sort: by_weight
 合理的想象	hé lǐ de xiǎng xiàng	10
 合理的消费	hé lǐ de xiāo fèi	10
 合理的薪酬	hé lǐ de xīn chóu	10
-合理的休息	hé lǐ de xiū xī	10
+合理的休息	hé lǐ de xiū xi	10
 合理的需求	hé lǐ de xū qiú	10
 合理的选择	hé lǐ de xuǎn zé	10
 合理的训练	hé lǐ de xùn liàn	10
@@ -62811,7 +62815,7 @@ sort: by_weight
 回到现实中	huí dào xiàn shí zhōng	10
 回到香港后	huí dào xiāng gǎng hòu	10
 回到小时候	huí dào xiǎo shí hou	10
-回到休息室	huí dào xiū xī shì	10
+回到休息室	huí dào xiū xi shì	10
 回到学校后	huí dào xué xiào hòu	10
 回到学校了	huí dào xué xiào le	10
 回到一个人	huí dào yí gè rén	10
@@ -63175,7 +63179,7 @@ sort: by_weight
 回去交任务	huí qù jiāo rèn wù	10
 回去看看吧	huí qù kàn kàn ba	10
 回去了没有	huí qù le méi yǒu	10
-回去休息吧	huí qù xiū xī ba	10
+回去休息吧	huí qù xiū xi ba	10
 回去再说吧	huí qù zài shuō ba	10
 会全力以赴	huì quán lì yǐ fù	10
 蕙荃体育馆	huì quán tǐ yù guǎn	10
@@ -63251,7 +63255,7 @@ sort: by_weight
 会说普通话	huì shuō pǔ tōng huà	10
 惠斯登电桥	huì sī dēng diàn qiáo	10
 惠斯通电桥	huì sī tōng diàn qiáo	10
-回宿舍休息	huí sù shè xiū xī	10
+回宿舍休息	huí sù shè xiū xi	10
 会随机掉落	huì suí jī diào luò	10
 会谈不会做	huì tán bú huì zuò	10
 会谈结束后	huì tán jié shù hòu	10
@@ -63623,6 +63627,7 @@ sort: by_weight
 混凝土浇灌	hùn níng tǔ jiāo guàn	10
 混凝土浇筑	hùn níng tǔ jiāo zhù	10
 混凝土浇注	hùn níng tǔ jiāo zhù	10
+混凝土结构	hùn níng tǔ jié gòu	10
 混凝土结构	hùn níng tǔ jié gòu	10
 混凝土开裂	hùn níng tǔ kāi liè	10
 混凝土框架	hùn níng tǔ kuàng jià	10
@@ -64578,7 +64583,7 @@ sort: by_weight
 机场吞吐量	jī chǎng tūn tǔ liàng	10
 机场消防车	jī chǎng xiāo fáng chē	10
 机场秀恩爱	jī chǎng xiù ēn ài	10
-机场休息室	jī chǎng xiū xī shì	10
+机场休息室	jī chǎng xiū xi shì	10
 机场指挥塔	jī chǎng zhǐ huī tǎ	10
 机场中心站	jī chǎng zhōng xīn zhàn	10
 机车爱好者	jī chē ài hào zhě	10
@@ -71754,7 +71759,7 @@ sort: by_weight
 胶原蛋白粉	jiāo yuán dàn bái fěn	10
 胶原蛋白肽	jiāo yuán dàn bái tài	10
 较远的地方	jiào yuǎn de dì fāng	10
-教员休息室	jiào yuán xiū xī shì	10
+教员休息室	jiào yuán xiū xi shì	10
 焦躁的情绪	jiāo zào de qíng xù	10
 叫这个名字	jiào zhè ge míng zì	10
 角质剥脱剂	jiǎo zhì bāo tuō jì	10
@@ -72266,7 +72271,7 @@ sort: by_weight
 节假日顺延	jié jià rì shùn yán	10
 节假日通用	jié jià rì tōng yòng	10
 节假日无休	jié jià rì wú xiū	10
-节假日休息	jié jià rì xiū xī	10
+节假日休息	jié jià rì xiū xi	10
 节假日值班	jié jià rì zhí bān	10
 节俭的生活	jié jiǎn de shēng huó	10
 节俭的习惯	jié jiǎn de xí guàn	10
@@ -74174,7 +74179,7 @@ sort: by_weight
 今天我看见	jīn tiān wǒ kàn jiàn	10
 今天我请客	jīn tiān wǒ qǐng kè	10
 今天我生日	jīn tiān wǒ shēng rì	10
-今天我休息	jīn tiān wǒ xiū xī	10
+今天我休息	jīn tiān wǒ xiū xi	10
 今天我要说	jīn tiān wǒ yào shuō	10
 今天我愿意	jīn tiān wǒ yuàn yì	10
 今天我在家	jīn tiān wǒ zài jiā	10
@@ -80223,6 +80228,7 @@ sort: by_weight
 抗过敏治疗	kàng guò mǐn zhì liáo	10
 抗韩中年人	kàng hán zhōng nián rén	10
 抗化学腐蚀	kàng huà xué fǔ shí	10
+抗滑移系数	kàng huá yí xì shù	10
 抗坏血酸钙	kàng huài xuè suān gài	10
 抗坏血酸酶	kàng huài xuè suān méi	10
 抗坏血酸钠	kàng huài xuè suān nà	10
@@ -81250,7 +81256,7 @@ sort: by_weight
 可见其实力	kě jiàn qí shí lì	10
 课间十分钟	kè jiān shí fēn zhōng	10
 可见性问题	kě jiàn xìng wèn tí	10
-课间休息时	kè jiān xiū xī shí	10
+课间休息时	kè jiān xiū xi shí	10
 可降解材料	kě jiàng jiě cái liào	10
 可降解塑料	kě jiàng jiě sù liào	10
 可降解支架	kě jiàng jiě zhī jià	10
@@ -85371,7 +85377,7 @@ sort: by_weight
 雷克雅未克	léi kè yǎ wèi kè	10
 雷克雅维克	léi kè yǎ wéi kè	10
 累了个半死	lèi le gè bàn sǐ	10
-累了就休息	lèi le jiù xiū xī	10
+累了就休息	lèi le jiù xiū xi	10
 累了一天了	lèi le yì tiān le	10
 类理财产品	lèi lǐ cái chǎn pǐn	10
 雷明顿公司	léi míng dùn gōng sī	10
@@ -87577,7 +87583,7 @@ sort: by_weight
 良好的性格	liáng hǎo de xìng gé	10
 良好的性能	liáng hǎo de xìng néng	10
 良好的形象	liáng hǎo de xíng xiàng	10
-良好的休息	liáng hǎo de xiū xī	10
+良好的休息	liáng hǎo de xiū xi	10
 良好的修养	liáng hǎo de xiū yǎng	10
 良好的选择	liáng hǎo de xuǎn zé	10
 良好的学风	liáng hǎo de xué fēng	10
@@ -92242,6 +92248,7 @@ sort: by_weight
 毛发红糠疹	máo fà hóng kāng zhěn	10
 毛发角化病	máo fà jiǎo huà bìng	10
 毛发上皮瘤	máo fà shàng pí liú	10
+锚杆静压桩	máo gān jìng yā zhuāng	10
 毛果芸香碱	máo guǒ yún xiāng jiǎn	10
 毛果猪笼草	máo guǒ zhū lóng cǎo	10
 猫和老鼠中	māo hé lǎo shǔ zhōng	10
@@ -100673,7 +100680,7 @@ sort: by_weight
 你好不知道	nǐ hǎo bù zhī dào	10
 你好好说话	nǐ hǎo hǎo shuō huà	10
 你好好想想	nǐ hǎo hǎo xiǎng xiǎng	10
-你好好休息	nǐ hǎo hǎo xiū xī	10
+你好好休息	nǐ hǎo hǎo xiū xi	10
 你好好学习	nǐ hǎo hào xué xí	10
 你好狠的心	nǐ hǎo hěn de xīn	10
 你好旧时光	nǐ hǎo jiù shí guāng	10
@@ -101866,7 +101873,7 @@ sort: by_weight
 你在找什么	nǐ zài zhǎo shén me	10
 你在做什么	nǐ zài zuò shén me	10
 你早点睡吧	nǐ zǎo diǎn shuì ba	10
-你早点休息	nǐ zǎo diǎn xiū xī	10
+你早点休息	nǐ zǎo diǎn xiū xi	10
 你早就知道	nǐ zǎo jiù zhī dào	10
 你怎么不吃	nǐ zěn me bù chī	10
 你怎么不叫	nǐ zěn me bú jiào	10
@@ -102471,7 +102478,7 @@ sort: by_weight
 您的用户名	nín de yòng hù míng	10
 您给我一个	nín gěi wǒ yí gè	10
 您还满意吗	nín hái mǎn yì ma	10
-您好好休息	nín hǎo hǎo xiū xī	10
+您好好休息	nín hǎo hǎo xiū xi	10
 您将有机会	nín jiāng yǒu jī huì	10
 您解释一下	nín jiě shì yí xià	10
 您就放心吧	nín jiù fàng xīn ba	10
@@ -111994,7 +112001,7 @@ sort: by_weight
 球员锦标赛	qiú yuán jǐn biāo sài	10
 球员经纪人	qiú yuán jīng jì rén	10
 球员效率值	qiú yuán xiào lǜ zhí	10
-球员休息室	qiú yuán xiū xī shì	10
+球员休息室	qiú yuán xiū xi shì	10
 球员易建联	qiú yuán yì jiàn lián	10
 球员在场上	qiú yuán zài chǎng shàng	10
 丘疹性痤疮	qiū zhěn xìng cuó chuāng	10
@@ -116541,6 +116548,7 @@ sort: by_weight
 肉丸糊辣汤	ròu wán hú là tāng	10
 柔性版印刷	róu xìng bǎn yìn shuā	10
 柔性电路板	róu xìng diàn lù bǎn	10
+柔性防水层	róu xìng fáng shuǐ céng	10
 柔性供应链	róu xìng gōng yìng liàn	10
 柔性化生产	róu xìng huà shēng chǎn	10
 柔性机器人	róu xìng jī qì rén	10
@@ -119865,7 +119873,7 @@ sort: by_weight
 少女与战车	shào nǚ yǔ zhàn chē	10
 烧钱的游戏	shāo qián de yóu xì	10
 烧伤整形科	shāo shāng zhěng xíng kē	10
-稍事休息后	shāo shì xiū xī hòu	10
+稍事休息后	shāo shì xiū xi hòu	10
 邵氏硬度计	shào shì yìng dù jì	10
 少数大城市	shǎo shù dà chéng shì	10
 少数党领袖	shǎo shù dǎng lǐng xiù	10
@@ -119951,7 +119959,7 @@ sort: by_weight
 少走点弯路	shǎo zǒu diǎn wān lù	10
 少走冤枉路	shǎo zǒu yuān wǎng lù	10
 稍作调整后	shāo zuò tiáo zhěng hòu	10
-稍作休息后	shāo zuò xiū xī hòu	10
+稍作休息后	shāo zuò xiū xi hòu	10
 稍作休整后	shāo zuò xiū zhěng hòu	10
 涉案标的额	shè àn biāo dì é	10
 涉案当事人	shè àn dāng shì rén	10
@@ -124904,7 +124912,7 @@ sort: by_weight
 适当的温度	shì dàng de wēn dù	10
 适当的修改	shì dàng de xiū gǎi	10
 适当的修剪	shì dàng de xiū jiǎn	10
-适当的休息	shì dàng de xiū xī	10
+适当的休息	shì dàng de xiū xi	10
 适当的选择	shì dàng de xuǎn zé	10
 适当的压力	shì dàng de yā lì	10
 适当的引导	shì dàng de yǐn dǎo	10
@@ -130686,7 +130694,7 @@ sort: by_weight
 舒适的温度	shū shì de wēn dù	10
 舒适的卧室	shū shì de wò shì	10
 舒适的鞋子	shū shì de xié zi	10
-舒适的休息	shū shì de xiū xī	10
+舒适的休息	shū shì de xiū xi	10
 舒适的学习	shū shì de xué xí	10
 舒适的衣服	shū shì de yī fu	10
 舒适的椅子	shū shì de yǐ zi	10
@@ -131803,7 +131811,7 @@ sort: by_weight
 睡眠的质量	shuì mián de zhì liàng	10
 睡眠的作用	shuì mián de zuò yòng	10
 睡眠过程中	shuì mián guò chéng zhōng	10
-睡眠和休息	shuì mián hé xiū xī	10
+睡眠和休息	shuì mián hé xiū xi	10
 睡眠呼吸机	shuì mián hū xī jī	10
 水面漂浮物	shuǐ miàn piāo fú wù	10
 睡眠时间表	shuì mián shí jiān biǎo	10
@@ -139006,7 +139014,7 @@ sort: by_weight
 停下来看看	tíng xià lái kàn kàn	10
 停下来思考	tíng xià lái sī kǎo	10
 停下来歇歇	tíng xià lái xiē xiē	10
-停下来休息	tíng xià lái xiū xī	10
+停下来休息	tíng xià lái xiū xi	10
 停下了脚步	tíng xià le jiǎo bù	10
 听雪楼系列	tīng xuě lóu xì liè	10
 停药综合症	tíng yào zōng hé zhèng	10
@@ -139383,6 +139391,7 @@ sort: by_weight
 通泰街街道	tōng tài jiē jiē dào	10
 同题材作品	tóng tí cái zuò pǐn	10
 通体大理石	tōng tǐ dà lǐ shí	10
+通体铺地砖	tōng tǐ pù dì zhuān	10
 通透的玻璃	tōng tòu de bō li	10
 通透的空间	tōng tòu de kōng jiān	10
 通透性增加	tōng tòu xìng zēng jiā	10
@@ -142164,7 +142173,7 @@ sort: by_weight
 晚上玩手机	wǎn shàng wán shǒu jī	10
 晚上熄灯后	wǎn shàng xī dēng hòu	10
 晚上下班后	wǎn shàng xià bān hòu	10
-晚上休息时	wǎn shàng xiū xī shí	10
+晚上休息时	wǎn shàng xiū xi shí	10
 晚上要不要	wǎn shàng yào bú yào	10
 晚上要吃少	wǎn shàng yào chī shǎo	10
 玩上一整天	wán shàng yì zhěng tiān	10
@@ -148166,7 +148175,7 @@ sort: by_weight
 我兴趣广泛	wǒ xìng qù guǎng fàn	10
 我修改一下	wǒ xiū gǎi yí xià	10
 我需要什么	wǒ xū yào shén me	10
-我需要休息	wǒ xū yào xiū xī	10
+我需要休息	wǒ xū yào xiū xi	10
 涡旋压缩机	wō xuán yā suō jī	10
 我选择了你	wǒ xuǎn zé le nǐ	10
 我选择死亡	wǒ xuǎn zé sǐ wáng	10
@@ -148232,7 +148241,7 @@ sort: by_weight
 我要想知道	wǒ yào xiǎng zhī dào	10
 我要笑死了	wǒ yào xiào sǐ le	10
 我要谢谢你	wǒ yào xiè xiè nǐ	10
-我要休息了	wǒ yào xiū xī le	10
+我要休息了	wǒ yào xiū xi le	10
 我要选李白	wǒ yào xuǎn lǐ bái	10
 我要怎么办	wǒ yào zěn me bàn	10
 我要找到你	wǒ yào zhǎo dào nǐ	10
@@ -153909,7 +153918,7 @@ sort: by_weight
 县行政中心	xiàn xíng zhèng zhōng xīn	10
 线性子空间	xiàn xìng zi kōng jiān	10
 先行组织者	xiān xíng zǔ zhī zhě	10
-先休息一会	xiān xiū xī yí huì	10
+先休息一会	xiān xiū xi yí huì	10
 先学会做人	xiān xué huì zuò rén	10
 鲜血与荣耀	xiān xuè yǔ róng yào	10
 县巡警大队	xiàn xún jǐng dà duì	10
@@ -155610,7 +155619,7 @@ sort: by_weight
 像兄弟一样	xiàng xiōng dì yí yàng	10
 像雄鹰一样	xiàng xióng yīng yí yàng	10
 湘绣博物馆	xiāng xiù bó wù guǎn	10
-想休息的话	xiǎng xiū xī de huà	10
+想休息的话	xiǎng xiū xi de huà	10
 想学好英语	xiǎng xué hǎo yīng yǔ	10
 像雪花一样	xiàng xuě huā yí yàng	10
 想学习一下	xiǎng xué xí yí xià	10
@@ -160744,7 +160753,7 @@ sort: by_weight
 星期日历型	xīng qī rì lì xíng	10
 星期日上午	xīng qī rì shàng wǔ	10
 星期日下午	xīng qī rì xià wǔ	10
-星期日休息	xīng qī rì xiū xī	10
+星期日休息	xīng qī rì xiū xi	10
 星期日邮报	xīng qī rì yóu bào	10
 星期三上午	xīng qī sān shàng wǔ	10
 星期三下午	xīng qī sān xià wǔ	10
@@ -160754,7 +160763,7 @@ sort: by_weight
 星期四下午	xīng qī sì xià wǔ	10
 星期天上午	xīng qī tiān shàng wǔ	10
 星期天下午	xīng qī tiān xià wǔ	10
-星期天休息	xīng qī tiān xiū xī	10
+星期天休息	xīng qī tiān xiū xi	10
 星期天早晨	xīng qī tiān zǎo chén	10
 星期天早上	xīng qī tiān zǎo shàng	10
 星期五餐厅	xīng qī wǔ cān tīng	10
@@ -161314,28 +161323,28 @@ sort: by_weight
 休斯敦大学	xiū sī dūn dà xué	10
 休斯敦火箭	xiū sī dūn huǒ jiàn	10
 修文猕猴桃	xiū wén mí hóu táo	10
-休息半小时	xiū xī bàn xiǎo shí	10
-休息的地方	xiū xī de dì fāng	10
-休息的空间	xiū xī de kōng jiān	10
-休息的权利	xiū xī de quán lì	10
-休息的时间	xiū xī de shí jiān	10
-休息和放松	xiū xī hé fàng sōng	10
-休息和恢复	xiū xī hé huī fù	10
-休息和睡眠	xiū xī hé shuì mián	10
-休息会儿吧	xiū xī huì er ba	10
-休息几分钟	xiū xī jǐ fēn zhōng	10
-休息了一会	xiū xī le yí huì	10
-休息了一天	xiū xī le yì tiān	10
-休息两小时	xiū xī liǎng xiǎo shí	10
-休息片刻后	xiū xī piàn kè hòu	10
-休息日加班	xiū xī rì jiā bān	10
-休息十分钟	xiū xī shí fēn zhōng	10
-休息时间少	xiū xī shí jiān shǎo	10
-休息五分钟	xiū xī wǔ fēn zhōng	10
-休息休息吧	xiū xī xiū xī ba	10
-休息一会儿	xiū xī yí huì er	10
-休息一下吧	xiū xī yí xià ba	10
-休息一阵子	xiū xī yí zhèn zi	10
+休息半小时	xiū xi bàn xiǎo shí	10
+休息的地方	xiū xi de dì fāng	10
+休息的空间	xiū xi de kōng jiān	10
+休息的权利	xiū xi de quán lì	10
+休息的时间	xiū xi de shí jiān	10
+休息和放松	xiū xi hé fàng sōng	10
+休息和恢复	xiū xi hé huī fù	10
+休息和睡眠	xiū xi hé shuì mián	10
+休息会儿吧	xiū xi huì er ba	10
+休息几分钟	xiū xi jǐ fēn zhōng	10
+休息了一会	xiū xi le yí huì	10
+休息了一天	xiū xi le yì tiān	10
+休息两小时	xiū xi liǎng xiǎo shí	10
+休息片刻后	xiū xi piàn kè hòu	10
+休息日加班	xiū xi rì jiā bān	10
+休息十分钟	xiū xi shí fēn zhōng	10
+休息时间少	xiū xi shí jiān shǎo	10
+休息五分钟	xiū xi wǔ fēn zhōng	10
+休息休息吧	xiū xi xiū xi ba	10
+休息一会儿	xiū xi yí huì er	10
+休息一下吧	xiū xi yí xià ba	10
+休息一阵子	xiū xi yí zhèn zi	10
 休闲背带裤	xiū xián bēi dài kù	10
 休闲大本营	xiū xián dà běn yíng	10
 休闲的穿搭	xiū xián de chuān dā	10
@@ -164370,7 +164379,7 @@ sort: by_weight
 沿原路返回	yán yuán lù fǎn huí	10
 演员培训班	yǎn yuán péi xùn bān	10
 演员佟丽娅	yǎn yuán tóng lì yà	10
-演员休息室	yǎn yuán xiū xī shì	10
+演员休息室	yǎn yuán xiū xi shì	10
 演员训练班	yǎn yuán xùn liàn bān	10
 演员演技好	yǎn yuán yǎn jì hǎo	10
 演员与观众	yǎn yuán yǔ guān zhòng	10
@@ -165011,7 +165020,7 @@ sort: by_weight
 瑶海停保场	yáo hǎi tíng bǎo chǎng	10
 要好好吃饭	yāo hǎo hǎo chī fàn	10
 要好好活着	yāo hǎo hǎo huó zhe	10
-要好好休息	yāo hǎo hǎo xiū xī	10
+要好好休息	yāo hǎo hǎo xiū xi	10
 要好好学习	yāo hǎo hào xué xí	10
 摇号中签率	yáo hào zhòng qiān lǜ	10
 要和你一样	yào hé nǐ yí yàng	10
@@ -165325,7 +165334,7 @@ sort: by_weight
 要注意安全	yào zhù yì ān quán	10
 要注意不要	yào zhù yì bú yào	10
 要注意身体	yào zhù yì shēn tǐ	10
-要注意休息	yào zhù yì xiū xī	10
+要注意休息	yào zhù yì xiū xi	10
 要注意一下	yào zhù yì yí xià	10
 要抓紧时间	yào zhuā jǐn shí jiān	10
 要抓住重点	yào zhuā zhù zhòng diǎn	10
@@ -169063,7 +169072,7 @@ sort: by_weight
 宜兴紫砂壶	yí xīng zǐ shā hú	10
 宜兴紫砂陶	yí xīng zǐ shā táo	10
 异形总动员	yì xíng zǒng dòng yuán	10
-以休息为主	yǐ xiū xī wéi zhǔ	10
+以休息为主	yǐ xiū xi wéi zhǔ	10
 医学博物馆	yī xué bó wù guǎn	10
 医学大数据	yī xué dà shù jù	10
 医学的发展	yī xué de fā zhǎn	10
@@ -174335,7 +174344,7 @@ sort: by_weight
 瑜伽练习者	yú jiā liàn xí zhě	10
 瑜伽师地论	yú jiā shī dì lùn	10
 余家头校区	yú jiā tóu xiào qū	10
-瑜伽休息术	yú jiā xiū xī shù	10
+瑜伽休息术	yú jiā xiū xi shù	10
 雨夹雪或雪	yǔ jiā xuě huò xuě	10
 雨夹雪天气	yǔ jiā xuě tiān qì	10
 遇见对的人	yù jiàn duì de rén	10
@@ -175226,7 +175235,7 @@ sort: by_weight
 员工满意度	yuán gōng mǎn yì dù	10
 员工上下班	yuán gōng shàng xià bān	10
 员工生日会	yuán gōng shēng rì huì	10
-员工休息室	yuán gōng xiū xī shì	10
+员工休息室	yuán gōng xiū xi shì	10
 员工与客户	yuán gōng yǔ kè hù	10
 员工与企业	yuán gōng yǔ qǐ yè	10
 员工执行力	yuán gōng zhí xíng lì	10
@@ -177656,7 +177665,7 @@ sort: by_weight
 早点回去吧	zǎo diǎn huí qù ba	10
 早点生孩子	zǎo diǎn shēng hái zi	10
 早点睡觉吧	zǎo diǎn shuì jiào ba	10
-早点休息吧	zǎo diǎn xiū xī ba	10
+早点休息吧	zǎo diǎn xiū xi ba	10
 躁动的内心	zào dòng de nèi xīn	10
 躁动的青春	zào dòng de qīng chūn	10
 早都知道了	zǎo dōu zhī dào le	10
@@ -181737,7 +181746,7 @@ sort: by_weight
 真正的兴趣	zhēn zhèng de xìng qù	10
 真正的兄弟	zhēn zhèng de xiōng dì	10
 真正的凶手	zhēn zhèng de xiōng shǒu	10
-真正的休息	zhēn zhèng de xiū xī	10
+真正的休息	zhēn zhèng de xiū xi	10
 真正的修行	zhēn zhèng de xiū xíng	10
 真正的需求	zhēn zhèng de xū qiú	10
 真正的选择	zhēn zhèng de xuǎn zé	10
@@ -185628,8 +185637,8 @@ sort: by_weight
 中长线布局	zhōng cháng xiàn bù jú	10
 中长线投资	zhōng cháng xiàn tóu zī	10
 中长线资金	zhōng cháng xiàn zī jīn	10
-中场休息后	zhōng chǎng xiū xī hòu	10
-中场休息时	zhōng chǎng xiū xī shí	10
+中场休息后	zhōng chǎng xiū xi hòu	10
+中场休息时	zhōng chǎng xiū xi shí	10
 中场指挥官	zhōng chǎng zhǐ huī guān	10
 中场组织者	zhōng chǎng zǔ zhī zhě	10
 中超八冠王	zhōng chāo bā guān wáng	10
@@ -187616,7 +187625,7 @@ sort: by_weight
 重污染企业	zhòng wū rǎn qǐ yè	10
 重污染天气	zhòng wū rǎn tiān qì	10
 中午十一点	zhōng wǔ shí yī diǎ	10
-中午休息时	zhōng wǔ xiū xī shí	10
+中午休息时	zhōng wǔ xiū xi shí	10
 中午要吃饱	zhōng wǔ yào chī bǎo	10
 中午在单位	zhōng wǔ zài dān wèi	10
 中戏表演系	zhōng xì biǎo yǎn xì	10
@@ -188407,7 +188416,7 @@ sort: by_weight
 皱了皱眉头	zhòu le zhòu méi tou	10
 周六福珠宝	zhōu liù fú zhū bǎo	10
 周六和周日	zhōu liù hé zhōu rì	10
-周六日休息	zhōu liù rì xiū xī	10
+周六日休息	zhōu liù rì xiū xi	10
 轴流式风扇	zhóu liú shì fēng shàn	10
 周六夜现场	zhōu liù yè xiàn chǎng	10
 周六至周日	zhōu liù zhì zhōu rì	10
@@ -189440,7 +189449,7 @@ sort: by_weight
 注意的问题	zhù yì de wèn tí	10
 注意点形象	zhù yì diǎn xíng xiàng	10
 注意多喝水	zhù yì duō hē shuǐ	10
-注意多休息	zhù yì duō xiū xī	10
+注意多休息	zhù yì duō xiū xi	10
 注意力放在	zhù yì lì fàng zài	10
 注意力分散	zhù yì lì fēn sǎn	10
 注意力涣散	zhù yì lì huàn sàn	10
@@ -193199,7 +193208,7 @@ sort: by_weight
 足够的信息	zú gòu de xìn xī	10
 足够的信心	zú gòu de xìn xīn	10
 足够的性能	zú gòu de xìng néng	10
-足够的休息	zú gòu de xiū xī	10
+足够的休息	zú gòu de xiū xi	10
 足够的氧气	zú gòu de yǎng qì	10
 足够的营养	zú gòu de yíng yǎng	10
 足够的勇气	zú gòu de yǒng qì	10
@@ -194747,7 +194756,7 @@ sort: by_weight
 坐下来谈判	zuò xià lái tán pàn	10
 坐下来谈谈	zuò xià lái tán tán	10
 坐下来讨论	zuò xià lái tǎo lùn	10
-坐下来休息	zuò xià lái xiū xī	10
+坐下来休息	zuò xià lái xiū xi	10
 做贤妻良母	zuò xián qī liáng mǔ	10
 左线性文法	zuǒ xiàn xìng wén fǎ	10
 做想做的事	zuò xiǎng zuò de shì	10
@@ -199608,7 +199617,7 @@ sort: by_weight
 不会显得突兀	bú huì xiǎn de tū wù	10
 不会显得臃肿	bú huì xiǎn de yōng zhǒng	10
 不会袖手旁观	bú huì xiù shǒu páng guān	10
-不会休息的人	bú huì xiū xī de rén	10
+不会休息的人	bú huì xiū xi de rén	10
 不会喧宾夺主	bú huì xuān bīn duó zhǔ	10
 不会也不可能	bú huì yě bù kě néng	10
 不会一帆风顺	bú huì yì fán fēng shùn	10
@@ -208782,6 +208791,7 @@ sort: by_weight
 地下车库入口	dì xià chē kù rù kǒu	10
 地下城守护者	dì xià chéng shǒu hù zhě	10
 地下城与勇士	dì xià chéng yǔ yǒng shì	10
+地下防水工程	dì xià fáng shuǐ gōng chéng	10
 地下管线测量	dì xià guǎn xiàn cè liáng	10
 地下空间利用	dì xià kōng jiān lì yòng	10
 地下排水设施	dì xià pái shuǐ shè shī	10
@@ -210647,7 +210657,7 @@ sort: by_weight
 短期涨幅过大	duǎn qī zhǎng fú guò dà	10
 短期资金市场	duǎn qī zī jīn shì chǎng	10
 短期资金周转	duǎn qī zī jīn zhōu zhuǎn	10
-短时间的休息	duǎn shí jiān de xiū xī	10
+短时间的休息	duǎn shí jiān de xiū xi	10
 短时间看不到	duǎn shí jiān kàn bú dào	10
 短时间内完成	duǎn shí jiān nèi wán chéng	10
 短时雷雨大风	duǎn shí léi yǔ dà fēng	10
@@ -211022,7 +211032,7 @@ sort: by_weight
 惰性气体元素	duò xìng qì tǐ yuán sù	10
 惰性气体原子	duò xìng qì tǐ yuán zǐ	10
 多形性日光疹	duō xíng xìng rì guāng zhěn	10
-多休息多喝水	duō xiū xī duō hē shuǐ	10
+多休息多喝水	duō xiū xi duō hē shuǐ	10
 多旋翼无人机	duō xuán yì wú rén jī	10
 多样化的产品	duō yàng huà de chǎn pǐn	10
 多样化的功能	duō yàng huà de gōng néng	10
@@ -212693,8 +212703,8 @@ sort: by_weight
 放弃还是坚持	fàng qì hái shì jiān chí	10
 放弃美国国籍	fàng qì měi guó guó jí	10
 放弃我抓紧我	fàng qì wǒ zhuā jǐn wǒ	10
-放弃休息时间	fàng qì xiū xī shí jiān	10
-放弃周末休息	fàng qì zhōu mò xiū xī	10
+放弃休息时间	fàng qì xiū xi shí jiān	10
+放弃周末休息	fàng qì zhōu mò xiū xi	10
 放入保鲜袋中	fàng rù bǎo xiān dài zhōng	10
 放入冰箱保存	fàng rù bīng xiāng bǎo cún	10
 放入冰箱冷藏	fàng rù bīng xiāng lěng cáng	10
@@ -222418,8 +222428,8 @@ sort: by_weight
 好好睡上一觉	hǎo hǎo shuì shàng yí jiào	10
 好好睡一觉吧	hǎo hǎo shuì yí jiào ba	10
 好好享受生活	hǎo hǎo xiǎng shòu shēng huó	10
-好好休息休息	hǎo hǎo xiū xī xiū xī	10
-好好休息一下	hǎo hǎo xiū xī yí xià	10
+好好休息休息	hǎo hǎo xiū xi xiū xi	10
+好好休息一下	hǎo hǎo xiū xi yí xià	10
 好好学习英语	hǎo hǎo xué xí yīng yǔ	10
 好好研究研究	hǎo hǎo yán jiū yán jiū	10
 好好照顾孩子	hǎo hǎo zhào gù hái zi	10
@@ -222704,6 +222714,7 @@ sort: by_weight
 和差化积公式	hé chà huà jī gōng shì	10
 何尝不是如此	hé cháng bú shì rú cǐ	10
 何尝不是因为	hé cháng bú shì yīn wèi	10
+合成材料地基	hé chéng cái liào dì jī	10
 合成胶原蛋白	hé chéng jiāo yuán dàn bái	10
 合成孔径雷达	hé chéng kǒng jìng léi dá	10
 合成认购期权	hé chéng rèn gòu qī quán	10
@@ -225368,7 +225379,7 @@ sort: by_weight
 回家倒头就睡	huí jiā dǎo tóu jiù shuì	10
 回家第一件事	huí jiā dì yī jiàn shì	10
 回家跪搓衣板	huí jiā guì cuō yī bǎn	10
-回家好好休息	huí jiā hǎo hǎo xiū xī	10
+回家好好休息	huí jiā hǎo hǎo xiū xi	10
 回家继承家产	huí jiā jì chéng jiā chǎn	10
 回家继承家业	huí jiā jì chéng jiā yè	10
 回家洗洗睡吧	huí jiā xǐ xǐ shuì ba	10
@@ -225404,7 +225415,7 @@ sort: by_weight
 汇票支票本票	huì piào zhī piào běn piào	10
 惠普暗影精灵	huì pǔ àn yǐng jīng líng	10
 惠普金牌服务	huì pǔ jīn pái fú wù	10
-回去好好休息	huí qù hǎo hǎo xiū xī	10
+回去好好休息	huí qù hǎo hǎo xiū xi	10
 回去继承家业	huí qù jì chéng jiā yè	10
 会让对方觉得	huì ràng duì fāng jué de	10
 会让孩子觉得	huì ràng hái zi jué de	10
@@ -229201,6 +229212,7 @@ sort: by_weight
 建造业训练局	jiàn zào yè xùn liàn jú	10
 鉴真佛教学院	jiàn zhēn fó jiào xué yuàn	10
 坚贞就在这里	jiān zhēn jiù zài zhè lǐ	10
+见证取样检测	jiàn zhèng qǔ yàng jiǎn cè	10
 煎至表面金黄	jiān zhì biǎo miàn jīn huáng	10
 简直不敢想象	jiǎn zhí bú gǎn xiǎng xiàng	10
 简直不可理喻	jiǎn zhí bù kě lǐ yù	10
@@ -229297,6 +229309,7 @@ sort: by_weight
 建筑工程学院	jiàn zhù gōng chéng xué yuàn	10
 建筑工程预算	jiàn zhù gōng chéng yù suàn	10
 建筑工程造价	jiàn zhù gōng chéng zào jià	10
+建筑工程质量	jiàn zhù gōng chéng zhì liàng	10
 建筑工程质量	jiàn zhù gōng chéng zhì liàng	10
 建筑工程专业	jiàn zhù gōng chéng zhuān yè	10
 建筑工程咨询	jiàn zhù gōng chéng zī xún	10
@@ -230435,6 +230448,7 @@ sort: by_weight
 结构相对简单	jié gòu xiāng duì jiǎn dān	10
 结构性的变化	jié gòu xìng de biàn huà	10
 结构性的机会	jié gòu xìng de jī huì	10
+结构性能检验	jié gòu xìng néng jiǎn yàn	10
 结构性心脏病	jié gòu xìng xīn zàng bìng	10
 结构优化设计	jié gòu yōu huà shè jì	10
 结构优化升级	jié gòu yōu huà shēng jí	10
@@ -232693,7 +232707,7 @@ sort: by_weight
 就卡在那里了	jiù kǎ zài nà lǐ le	10
 就看不到你了	jiù kàn bú dào nǐ le	10
 就可以看出来	jiù kě yǐ kàn chū lái	10
-就可以休息了	jiù kě yǐ xiū xī le	10
+就可以休息了	jiù kě yǐ xiū xi le	10
 就快要结束了	jiù kuài yào jié shù le	10
 就来找我聊天	jiù lái zhǎo wǒ liáo tiān	10
 久了就习惯了	jiǔ le jiù xí guàn le	10
@@ -233417,7 +233431,7 @@ sort: by_weight
 绝对收益策略	jué duì shōu yì cè lüè	10
 绝对收益基金	jué duì shōu yì jī jīn	10
 绝对统治地位	jué duì tǒng zhì dì wèi	10
-绝对卧床休息	jué duì wò chuáng xiū xī	10
+绝对卧床休息	jué duì wò chuáng xiū xi	10
 绝对物超所值	jué duì wù chāo suǒ zhí	10
 绝对无法接受	jué duì wú fǎ jiē shòu	10
 绝对无法容忍	jué duì wú fǎ róng rěn	10
@@ -234777,7 +234791,7 @@ sort: by_weight
 可见光摄像头	kě jiàn guāng shè xiàng tóu	10
 可见光透射比	kě jiàn guāng tòu shè bǐ	10
 可见他的实力	kě jiàn tā de shí lì	10
-课间休息时间	kè jiān xiū xī shí jiān	10
+课间休息时间	kè jiān xiū xi shí jiān	10
 可降低胆固醇	kě jiàng dī dǎn gù chún	10
 可降解购物袋	kě jiàng jiě gòu wù dài	10
 可降解塑料袋	kě jiàng jiě sù liào dài	10
@@ -235208,7 +235222,7 @@ sort: by_weight
 可以关注小编	kě yǐ guān zhù xiǎo biān	10
 可以过得很好	kě yǐ guò de hěn hǎo	10
 可以好好把握	kě yǐ hǎo hǎo bǎ wò	10
-可以好好休息	kě yǐ hǎo hǎo xiū xī	10
+可以好好休息	kě yǐ hǎo hǎo xiū xi	10
 可以毫无顾忌	kě yǐ háo wú gù jì	10
 可以很清楚的	kě yǐ hěn qīng chǔ de	10
 可以呼风唤雨	kě yǐ hū fēng huàn yǔ	10
@@ -235501,6 +235515,7 @@ sort: by_weight
 空间布局合理	kōng jiān bù jú hé lǐ	10
 空间的利用率	kōng jiān de lì yòng lǜ	10
 空间分布特征	kōng jiān fēn bù tè zhēng	10
+空间刚度单元	kōng jiān gāng dù dān yuán	10
 空间光调制器	kōng jiān guāng tiáo zhì qì	10
 空间和舒适性	kōng jiān hé shū shì xìng	10
 空间激光通信	kōng jiān jī guāng tōng xìn	10
@@ -237275,7 +237290,7 @@ sort: by_weight
 利用闲暇时间	lì yòng xián xiá shí jiān	10
 利用现有资源	lì yòng xiàn yǒu zī yuán	10
 利用信息网络	lì yòng xìn xī wǎng luò	10
-利用休息时间	lì yòng xiū xī shí jiān	10
+利用休息时间	lì yòng xiū xi shí jiān	10
 利用野生动物	lì yòng yě shēng dòng wù	10
 利用业余时间	lì yòng yè yú shí jiān	10
 利用一切机会	lì yòng yí qiè jī huì	10
@@ -241062,7 +241077,7 @@ sort: by_weight
 美洲开发银行	měi zhōu kāi fā yín háng	10
 湄洲妈祖祖庙	méi zhōu mā zǔ zǔ miào	10
 每周星座运势	měi zhōu xīng zuò yùn shì	10
-每周休息一天	měi zhōu xiū xī yì tiān	10
+每周休息一天	měi zhōu xiū xi yì tiān	10
 每周一到周五	měi zhōu yī dào zhōu wǔ	10
 每周一至周日	měi zhōu yī zhì zhōu rì	10
 每周一至周五	měi zhōu yī zhì zhōu wǔ	10
@@ -242792,6 +242807,7 @@ sort: by_weight
 脑动静脉畸形	nǎo dòng jìng mài jī xíng	10
 脑动脉瘤破裂	nǎo dòng mài liú pò liè	10
 脑动脉硬化症	nǎo dòng mài yìng huà zhèng	10
+挠度弯曲矢高	náo dù wān qū shǐ gāo	10
 脑干网状结构	nǎo gàn wǎng zhuàng jié gòu	10
 脑梗塞后遗症	nǎo gěng sè hòu yí zhèng	10
 脑梗死后遗症	nǎo gěng sǐ hòu yí zhèng	10
@@ -243300,7 +243316,7 @@ sort: by_weight
 你好不好意思	nǐ hǎo bù hǎo yì sī	10
 你好大的胆子	nǐ hǎo dà de dǎn zi	10
 你好好想想吧	nǐ hǎo hǎo xiǎng xiǎng ba	10
-你好好休息吧	nǐ hǎo hǎo xiū xī ba	10
+你好好休息吧	nǐ hǎo hǎo xiū xi ba	10
 你和别人一样	nǐ hé bié rén yí yàng	10
 你和你的孩子	nǐ hé nǐ de hái zi	10
 你和你的家人	nǐ hé nǐ de jiā rén	10
@@ -243776,7 +243792,7 @@ sort: by_weight
 你也许不知道	nǐ yě xǔ bù zhī dào	10
 你也许会发现	nǐ yě xǔ huì fā xiàn	10
 你也应该知道	nǐ yě yīng gāi zhī dào	10
-你也早点休息	nǐ yě zǎo diǎn xiū xī	10
+你也早点休息	nǐ yě zǎo diǎn xiū xi	10
 你一定不陌生	nǐ yī dìng bú mò shēng	10
 你一定不知道	nǐ yī dìng bù zhī dào	10
 你一定猜不到	nǐ yí dìng cāi bú dào	10
@@ -243906,7 +243922,7 @@ sort: by_weight
 你再仔细看看	nǐ zài zǐ xì kàn kàn	10
 你在做什么呢	nǐ zài zuò shén me ne	10
 你在做什么呀	nǐ zài zuò shén me ya	10
-你早点休息吧	nǐ zǎo diǎn xiū xī ba	10
+你早点休息吧	nǐ zǎo diǎn xiū xi ba	10
 你怎么不理我	nǐ zěn me bù lǐ wǒ	10
 你怎么不去死	nǐ zěn me bú qù sǐ	10
 你怎么不说话	nǐ zěn me bù shuō huà	10
@@ -246603,6 +246619,7 @@ sort: by_weight
 其他的女明星	qí tā de nǚ míng xīng	10
 其他的小伙伴	qí tā de xiǎo huǒ bàn	10
 其他的小朋友	qí tā de xiǎo péng yǒu	10
+其他地下工程	qí tā dì xià gōng chéng	10
 其它递延负债	qí tā dì yán fù zhài	10
 其它递延资产	qí tā dì yán zī chǎn	10
 其他电商平台	qí tā diàn shāng píng tái	10
@@ -251476,7 +251493,7 @@ sort: by_weight
 入云龙公孙胜	rù yún lóng gōng sūn shèng	10
 汝州市环保局	rǔ zhōu shì huán bǎo jú	10
 入驻电商平台	rù zhù diàn shāng píng tái	10
-入住酒店休息	rù zhù jiǔ diàn xiū xī	10
+入住酒店休息	rù zhù jiǔ diàn xiū xi	10
 入驻天猫商城	rù zhù tiān māo shāng chéng	10
 如坠五里雾中	rú zhuì wǔ lǐ wù zhōng	10
 孺子不可教也	rú zǐ bù kě jiào yě	10
@@ -254171,7 +254188,7 @@ sort: by_weight
 什么时候完成	shén me shí hòu wán chéng	10
 什么时候下班	shén me shí hòu xià bān	10
 什么时候休假	shén me shí hòu xiū jià	10
-什么时候休息	shén me shí hòu xiū xī	10
+什么时候休息	shén me shí hòu xiū xi	10
 什么时候学习	shén me shí hòu xué xí	10
 什么时候有空	shén me shí hòu yǒu kòng	10
 什么时候遇到	shén me shí hòu yù dào	10
@@ -261080,7 +261097,7 @@ sort: by_weight
 糖原磷酸化酶	táng yuán lín suān huà méi	10
 汤熨之所及也	tāng yùn zhī suǒ jí yě	10
 躺在床上看书	tǎng zài chuáng shàng kàn shū	10
-躺在床上休息	tǎng zài chuáng shàng xiū xī	10
+躺在床上休息	tǎng zài chuáng shàng xiū xi	10
 躺着就能赚钱	tǎng zhe jiù néng zhuàn qián	10
 躺着也能赚钱	tǎng zhe yě néng zhuàn qián	10
 躺着也中枪啊	tǎng zhe yě zhōng qiāng a	10
@@ -263364,6 +263381,7 @@ sort: by_weight
 突发心脏骤停	tū fā xīn zàng zhòu tíng	10
 突发性脑溢血	tū fā xìng nǎo yì xuè	10
 突发应急事件	tū fā yìng jí shì jiàn	10
+土工合成材料	tǔ gōng hé chéng cái liào	10
 图古日格嘎查	tú gǔ rì gé gā chá	10
 土瓜湾落山道	tǔ guā wān luò shān dào	10
 土瓜湾浙江街	tǔ guā wān zhè jiāng jiē	10
@@ -264427,7 +264445,7 @@ sort: by_weight
 晚上一般几点	wǎn shàng yì bān jǐ diǎn	10
 晚上一起吃饭	wǎn shàng yì qǐ chī fàn	10
 晚上早点睡觉	wǎn shàng zǎo diǎn shuì jiào	10
-晚上早点休息	wǎn shàng zǎo diǎn xiū xī	10
+晚上早点休息	wǎn shàng zǎo diǎn xiū xi	10
 玩什么游戏啊	wán shén me yóu xì a	10
 万圣节的南瓜	wàn shèng jié de nán guā	10
 玩世现实主义	wán shì xiàn shí zhǔ yì	10
@@ -267082,7 +267100,7 @@ sort: by_weight
 我心中的天使	wǒ xīn zhōng de tiān shǐ	10
 我心中的英雄	wǒ xīn zhōng de yīng xióng	10
 我修改了一下	wǒ xiū gǎi le yí xià	10
-我休息一会儿	wǒ xiū xī yí huì er	10
+我休息一会儿	wǒ xiū xi yí huì er	10
 涡旋式压缩机	wō xuán shì yā suō jī	10
 我养你一辈子	wǒ yǎng nǐ yí bèi zi	10
 我要被你气死	wǒ yào bèi nǐ qì sǐ	10
@@ -268749,7 +268767,7 @@ sort: by_weight
 西什库天主堂	xī shén kù tiān zhǔ táng	10
 牺牲奉献精神	xī shēng fèng xiàn jīng shén	10
 牺牲我一个人	xī shēng wǒ yí gè rén	10
-牺牲休息时间	xī shēng xiū xī shí jiān	10
+牺牲休息时间	xī shēng xiū xi shí jiān	10
 牺牲阳极保护	xī shēng yáng jí bǎo hù	10
 熙盛源馄饨店	xī shèng yuán hún tun diàn	10
 喜士多便利店	xǐ shì duō biàn lì diàn	10
@@ -269787,7 +269805,7 @@ sort: by_weight
 籼型杂交水稻	xiān xíng zá jiāo shuǐ dào	10
 线性振动马达	xiàn xìng zhèn dòng mǎ dá	10
 现行总体数字	xiàn xíng zǒng tǐ shù zi	10
-先休息一会儿	xiān xiū xī yí huì er	10
+先休息一会儿	xiān xiū xi yí huì er	10
 县畜牧兽医局	xiàn xù mù shòu yī jú	10
 县畜牧水产局	xiàn xù mù shuǐ chǎn jú	10
 县烟草专卖局	xiàn yān cǎo zhuān mài jú	10
@@ -272944,9 +272962,9 @@ sort: by_weight
 休斯顿纪事报	xiū sī dùn jì shì bào	10
 休斯敦纪事报	xiū sī dūn jì shì bào	10
 修昔底德陷阱	xiū xī dǐ dé xiàn jǐng	10
-休息了一会儿	xiū xī le yí huì er	10
-休息一会儿吧	xiū xī yí huì er ba	10
-休息一下就好	xiū xī yī xià jiù hǎo	10
+休息了一会儿	xiū xi le yí huì er	10
+休息一会儿吧	xiū xi yí huì er ba	10
+休息一下就好	xiū xi yī xià jiù hǎo	10
 休闲的好去处	xiū xián de hǎo qù chù	10
 休闲度假旅游	xiū xián dù jià lǚ yóu	10
 休闲服务行业	xiū xián fú wù háng yè	10
@@ -273139,7 +273157,7 @@ sort: by_weight
 需要更加谨慎	xū yào gèng jiā jǐn shèn	10
 需要更加努力	xū yào gèng jiā nǔ lì	10
 需要关注的是	xū yào guān zhù de shì	10
-需要好好休息	xū yào hǎo hǎo xiū xī	10
+需要好好休息	xū yào hǎo hǎo xiū xi	10
 需要很长时间	xū yào hěn cháng shí jiān	10
 需要花多少钱	xū yào huā duō shǎo qián	10
 需要花费时间	xū yào huā fèi shí jiān	10
@@ -280972,8 +280990,8 @@ sort: by_weight
 遭到黑客攻击	zāo dào hēi kè gōng jī	10
 遭到网友吐槽	zāo dào wǎng yǒu tǔ cáo	10
 遭到严重破坏	zāo dào yán zhòng pò huài	10
-早点回家休息	zǎo diǎn huí jiā xiū xī	10
-早点回去休息	zǎo diǎn huí qù xiū xī	10
+早点回家休息	zǎo diǎn huí jiā xiū xi	10
+早点回去休息	zǎo diǎn huí qù xiū xi	10
 早点结婚生子	zǎo diǎn jié hūn shēng zǐ	10
 早饭一定要吃	zǎo fàn yī dìng yào chī	10
 造福两国人民	zào fú liǎng guó rén mín	10
@@ -284829,7 +284847,7 @@ sort: by_weight
 中长款羽绒服	zhōng cháng kuǎn yǔ róng fú	10
 中长期投资者	zhōng cháng qī tóu zī zhě	10
 中长线投资者	zhōng cháng xiàn tóu zī zhě	10
-中场休息时间	zhōng chǎng xiū xī shí jiān	10
+中场休息时间	zhōng chǎng xiū xi shí jiān	10
 中场组织核心	zhōng chǎng zǔ zhī hé xīn	10
 中超颁奖典礼	zhōng chāo bān jiǎng diǎn lǐ	10
 中超联赛冠军	zhōng chāo lián sài guàn jūn	10
@@ -284845,6 +284863,7 @@ sort: by_weight
 中程防空导弹	zhōng chéng fáng kōng dǎo dàn	10
 忠诚干净担当	zhōng chéng gān jìng dān dāng	10
 中程空空导弹	zhōng chéng kōng kōng dǎo dàn	10
+重锤夯实地基	zhòng chuí hāng shí dì jī	10
 中春路华中路	zhōng chūn lù huá zhōng lù	10
 中村明日美子	zhōng cūn míng rì měi zǐ	10
 重大安全事故	zhòng dà ān quán shì gù	10
@@ -286689,7 +286708,7 @@ sort: by_weight
 中午吃什么的	zhōng wǔ chī shén me de	10
 中午回家吃饭	zhōng wǔ huí jiā chī fàn	10
 中午十二点半	zhōng wǔ shí èr diǎn bàn	10
-中午休息时间	zhōng wǔ xiū xī shí jiān	10
+中午休息时间	zhōng wǔ xiū xi shí jiān	10
 中午一起吃饭	zhōng wǔ yì qǐ chī fàn	10
 中西创新学院	zhōng xī chuàng xīn xué yuàn	10
 中西结合治疗	zhōng xī jié hé zhì liáo	10
@@ -287148,7 +287167,7 @@ sort: by_weight
 周静帝宇文阐	zhōu jìng dì yǔ wén chǎn	10
 周六还是周日	zhōu liù hái shì zhōu rì	10
 轴流式压气机	zhóu liú shì yā qì jī	10
-周六周日休息	zhōu liù zhōu rì xiū xī	10
+周六周日休息	zhōu liù zhōu rì xiū xi	10
 周密安排部署	zhōu mì ān pái bù shǔ	10
 周密部署安排	zhōu mì bù shǔ ān pái	10
 周明帝宇文毓	zhōu míng dì yǔ wén yù	10
@@ -287290,7 +287309,7 @@ sort: by_weight
 主动承认错误	zhǔ dòng chéng rèn cuò wù	10
 助动词终止形	zhù dòng cí zhōng zhǐ xíng	10
 主动放弃休假	zhǔ dòng fàng qì xiū jià	10
-主动放弃休息	zhǔ dòng fàng qì xiū xī	10
+主动放弃休息	zhǔ dòng fàng qì xiū xi	10
 主动防御系统	zhǔ dòng fáng yù xì tǒng	10
 主动服务企业	zhǔ dòng fú wù qǐ yè	10
 主动服务意识	zhǔ dòng fú wù yì shí	10
@@ -287932,7 +287951,7 @@ sort: by_weight
 抓好组织实施	zhuā hǎo zǔ zhī shí shī	10
 抓好作风建设	zhuā hǎo zuò fēng jiàn shè	10
 抓基层打基础	zhuā jī céng dǎ jī chǔ	10
-抓紧时间休息	zhuā jǐn shí jiān xiū xī	10
+抓紧时间休息	zhuā jǐn shí jiān xiū xi	10
 抓紧时间学习	zhuā jǐn shí jiān xué xí	10
 抓紧研究制定	zhuā jǐn yán jiū zhì dìng	10
 抓紧一切时间	zhuā jǐn yí qiè shí jiān	10
@@ -289797,7 +289816,7 @@ sort: by_weight
 足迹遍布全球	zú jì biàn bù quán qiú	10
 祖籍陇西成纪	zǔ jí lǒng xī chéng jì	10
 组建合资公司	zǔ jiàn hé zī gōng sī	10
-组间休息时间	zǔ jiān xiū xī shí jiān	10
+组间休息时间	zǔ jiān xiū xi shí jiān	10
 组建研发团队	zǔ jiàn yán fā tuán duì	10
 组建专家团队	zǔ jiàn zhuān jiā tuán duì	10
 组建专业团队	zǔ jiàn zhuān yè tuán duì	10
@@ -292378,7 +292397,7 @@ sort: by_weight
 抱着学习的态度	bào zhe xué xí de tài dù	10
 抱着学习的心态	bào zhe xué xí de xīn tài	10
 保证产品的质量	bǎo zhèng chǎn pǐn de zhì liàng	10
-保证充足的休息	bǎo zhèng chōng zú de xiū xī	10
+保证充足的休息	bǎo zhèng chōng zú de xiū xi	10
 保证充足的营养	bǎo zhèng chōng zú de yíng yǎng	10
 保证孩子的安全	bǎo zhèng hái zi de ān quán	10
 保证良好的睡眠	bǎo zhèng liáng hǎo de shuì mián	10
@@ -292919,6 +292938,7 @@ sort: by_weight
 表独立兮山之上	biǎo dú lì xī shān zhī shàng	10
 表决权差异安排	biǎo jué quán chā yì ān pái	10
 表决权委托协议	biǎo jué quán wěi tuō xié yì	10
+表面粗糙度参数	biǎo miàn cū cāo dù cān shù	10
 表面活性剂体系	biǎo miàn huó xìng jì tǐ xì	10
 表面现象所迷惑	biǎo miàn xiàn xiàng suǒ mí huò	10
 表明自己的立场	biǎo míng zì jǐ de lì chǎng	10
@@ -295567,7 +295587,7 @@ sort: by_weight
 崇祯皇帝朱由检	chóng zhēn huáng dì zhū yóu jiǎn	10
 充足的储物空间	chōng zú de chǔ wù kōng jiān	10
 充足的睡眠时间	chōng zú de shuì mián shí jiān	10
-充足的休息时间	chōng zú de xiū xī shí jiān	10
+充足的休息时间	chōng zú de xiū xi shí jiān	10
 充足的资金保障	chōng zú de zī jīn bǎo zhàng	10
 重组甘精胰岛素	chóng zǔ gān jīng yí dǎo sù	10
 重组酵母乙肝疫	chóng zǔ jiào mǔ yǐ gān yì	10
@@ -296809,7 +296829,7 @@ sort: by_weight
 打赢脱贫攻坚战	dǎ yíng tuō pín gōng jiān zhàn	10
 打游戏浪费时间	dǎ yóu xì làng fèi shí jiān	10
 大禹治水的故事	dà yǔ zhì shuǐ de gù shì	10
-大圆满心性休息	dà yuán mǎn xīn xìng xiū xī	10
+大圆满心性休息	dà yuán mǎn xīn xìng xiū xi	10
 大约需要多少钱	dà yuē xū yào duō shǎo qián	10
 大运河购物中心	dà yùn hé gòu wù zhōng xīn	10
 大运河森林公园	dà yùn hé sēn lín gōng yuán	10
@@ -299965,7 +299985,7 @@ sort: by_weight
 法定监护人户籍	fǎ dìng jiān hù rén hù jí	10
 法定节假日除外	fǎ dìng jié jià rì chú wài	10
 法定节假日放假	fǎ dìng jié jià rì fàng jià	10
-法定节假日休息	fǎ dìng jié jià rì xiū xī	10
+法定节假日休息	fǎ dìng jié jià rì xiū xi	10
 法定盈余公积金	fǎ dìng yíng yú gōng jī jīn	10
 法定优先受偿款	fǎ dìng yōu xiān shòu cháng kuǎn	10
 发动机出现故障	fā dòng jī chū xiàn gù zhàng	10
@@ -306464,7 +306484,7 @@ sort: by_weight
 患糖尿病的风险	huàn táng niào bìng de fēng xiǎn	10
 欢天喜地七仙女	huān tiān xǐ dì qī xiān nǚ	10
 欢天喜地俏冤家	huān tiān xǐ dì qiào yuān jiā	10
-环卫工人休息室	huán wèi gōng rén xiū xī shì	10
+环卫工人休息室	huán wèi gōng rén xiū xi shì	10
 换位思考的能力	huàn wèi sī kǎo de néng lì	10
 欢喜婆婆俏媳妇	huān xǐ pó pó qiào xí fù	10
 欢喜冤家的爱情	huān xǐ yuān jiā de ài qíng	10
@@ -308706,6 +308726,7 @@ sort: by_weight
 交个朋友直播间	jiāo gè péng yǒu zhí bō jiān	10
 教工党支部书记	jiào gōng dǎng zhī bù shū jì	10
 教官拉苏维奥斯	jiào guān lā sū wéi ào sī	10
+角焊缝计算厚度	jiǎo hàn fèng jì suàn hòu dù	10
 较好的发展前景	jiào hǎo de fā zhǎn qián jǐng	10
 较好的沟通能力	jiào hǎo de gōu tōng néng lì	10
 交互式电子白板	jiāo hù shì diàn zǐ bái bǎn	10
@@ -314488,7 +314509,7 @@ sort: by_weight
 没想到啊没想到	méi xiǎng dào a méi xiǎng dào	10
 没心没肺的女人	méi xīn méi fèi de nǚ rén	10
 没心没肺的样子	méi xīn méi fèi de yàng zi	10
-每星期休息一天	měi xīng qī xiū xī yì tiān	10
+每星期休息一天	měi xīng qī xiū xi yì tiān	10
 美型妖精大混战	měi xíng yāo jīng dà hùn zhàn	10
 梅雪争春未肯降	méi xuě zhēng chūn wèi kěn jiàng	10
 媚眼做给瞎子看	mèi yǎn zuò gěi xiā zi kàn	10
@@ -316056,7 +316077,7 @@ sort: by_weight
 你也好不了多少	nǐ yě hǎo bù liǎo duō shǎo	10
 你也可以是天使	nǐ yě kě yǐ shì tiān shǐ	10
 你也有你的生活	nǐ yě yǒu nǐ de shēng huó	10
-你也早点休息吧	nǐ yě zǎo diǎn xiū xī ba	10
+你也早点休息吧	nǐ yě zǎo diǎn xiū xi ba	10
 你一定不会陌生	nǐ yī dìng bú huì mò shēng	10
 你一定不能错过	nǐ yī dìng bù néng cuò guò	10
 你一定不要错过	nǐ yī dìng bú yào cuò guò	10
@@ -327357,7 +327378,7 @@ sort: by_weight
 我膝盖中了一箭	wǒ xī gài zhōng le yí jiàn	10
 我喜欢的小动物	wǒ xǐ huān de xiǎo dòng wù	10
 我喜欢这个味道	wǒ xǐ huān zhè ge wèi dào	10
-我先休息一会儿	wǒ xiān xiū xī yí huì er	10
+我先休息一会儿	wǒ xiān xiū xi yí huì er	10
 我现在不喜欢你	wǒ xiàn zài bù xǐ huān nǐ	10
 我现在的男朋友	wǒ xiàn zài de nán péng yǒu	10
 我现在都不晓得	wǒ xiàn zài dōu bù xiǎo de	10
@@ -330597,8 +330618,8 @@ sort: by_weight
 修饰脸型的效果	xiū shì liǎn xíng de xiào guǒ	10
 秀水明山抱复回	xiù shuǐ míng shān bào fù huí	10
 休斯直升机公司	xiū sī zhí shēng jī gōng sī	10
-休息了一段时间	xiū xī le yí duàn shí jiān	10
-休息一段时间后	xiū xī yí duàn shí jiān hòu	10
+休息了一段时间	xiū xi le yí duàn shí jiān	10
+休息一段时间后	xiū xi yí duàn shí jiān hòu	10
 休闲旅游目的地	xiū xián lǚ yóu mù dì dì	10
 休闲益智类游戏	xiū xián yì zhì lèi yóu xì	10
 休信儿童轻薄语	xiū xìn ér tóng qīng bó yǔ	10
@@ -332577,7 +332598,7 @@ sort: by_weight
 一天比一天冷了	yì tiān bǐ yì tiān lěng le	10
 一天比一天难过	yì tiān bǐ yì tiān nán guò	10
 一天比一天严重	yì tiān bǐ yì tiān yán zhòng	10
-一天都没有休息	yì tiān dōu méi yǒu xiū xī	10
+一天都没有休息	yì tiān dōu méi yǒu xiū xi	10
 倚天剑和屠龙刀	yǐ tiān jiàn hé tú lóng dāo	10
 倚天剑与屠龙刀	yǐ tiān jiàn yǔ tú lóng dāo	10
 一天没走到终点	yì tiān méi zǒu dào zhōng diǎn	10
@@ -338703,6 +338724,8 @@ sort: by_weight
 阜新蒙古族自治县	fù xīn měng gǔ zú zì zhì xiàn	10
 感慨万千嘘唏不已	gǎn kǎi wàn qiān xū xī bù yǐ	10
 高朋满座腾蛟起凤	gāo péng mǎn zuò téng jiāo qǐ fèng	10
+高强度螺栓连接副	gāo qiáng dù luó shuān lián jiē fù	10
+高压喷射注浆地基	gāo yā pēn shè zhù jiāng dì jī	10
 各有所长各有所短	gè yǒu suǒ cháng gè yǒu suǒ duǎn	10
 工程承包公司会计	gōng chéng chéng bāo gōng sī kuài jì	10
 工程承包公司审计	gōng chéng chéng bāo gōng sī shěn jì	10
@@ -338849,6 +338872,7 @@ sort: by_weight
 零售商品结存审计	líng shòu shāng pǐn jié cún shěn jì	10
 零售商品销售审计	líng shòu shāng pǐn xiāo shòu shěn jì	10
 流水不腐户枢不蠹	liú shuǐ bù fǔ hù shū bù dù	10
+轮廓算术平均偏差	lún kuò suàn shù píng jūn piān chā	10
 萝卜青菜各有所爱	luó bo qīng cài gè yǒu suǒ ài	10
 罗城仫佬族自治县	luó chéng mù lǎo zú zì zhì xiàn	10
 慢慢腾腾歪歪扭扭	màn màn téng téng wāi wāi niǔ niǔ	10
@@ -338931,6 +338955,7 @@ sort: by_weight
 生不带来死不带去	shēng bú dài lái sǐ bú dài qù	10
 生死有命富贵在天	shēng sǐ yǒu mìng fù guì zài tiān	10
 生于忧患死于安乐	shēng yú yōu huàn sǐ yú ān lè	10
+施工质量控制等级	shī gōng zhì liàng kòng zhì děng jí	10
 市价与账面值比率	shì jià yǔ zhàng miàn zhí bǐ lǜ	10
 食无求饱居无求安	shí wú qiú bǎo jū wú qiú ān	10
 事业行政财务审计	shì yè xíng zhèng cái wù shěn jì	10
@@ -338941,6 +338966,7 @@ sort: by_weight
 瘦死的骆驼比马大	shòu sǐ de luò tuó bǐ mǎ dà	10
 水到渠成瓜熟蒂落	shuǐ dào qú chéng guā shú dì luò	10
 水可载舟亦可覆舟	shuǐ kě zài zhōu yì kě fù zhōu	10
+水泥土搅拌桩地基	shuǐ ní tǔ jiǎo bàn zhuāng dì jī	10
 顺天者昌逆天者亡	shùn tiān zhě chāng nì tiān zhě wáng	10
 顺我者昌逆我者亡	shùn wǒ zhě chāng nì wǒ zhě wáng	10
 顺之者昌逆之者亡	shùn zhī zhě chāng nì zhī zhě wáng	10
@@ -339104,6 +339130,9 @@ sort: by_weight
 非商品定额资金审计	fēi shāng pǐn dìng é zī jīn shěn jì	10
 该放松的时候就放松	gāi fàng sōng de shí hou jiù fàng sōng	10
 港澳及国外联行往来	gǎng ào jí guó wài lián háng wǎng lái	10
+高强度螺栓初柠扭矩	gāo qiáng dù luó shuān chū níng niǔ jǔ	10
+高强度螺栓检查扭矩	gāo qiáng dù luó shuān jiǎn chá niǔ jǔ	10
+高强度螺栓终柠扭矩	gāo qiáng dù luó shuān zhōng níng niǔ jǔ	10
 国际内部审计师协会	guó jì nèi bù shěn jì shī xié huì	10
 机会是给有准备的人	jī huì shì gěi yǒu zhǔn bèi de rén	10
 加州大学洛杉矶分校	jiā zhōu dà xué luò shān jī fēn xiào	10
@@ -339133,6 +339162,7 @@ sort: by_weight
 铁打的营盘流水的兵	tiě dǎ de yíng pán liú shuǐ de bīng	10
 投资产生的现金流量	tóu zī chǎn shēng de xiàn jīn liú liàng	10
 投资银行特种准备金	tóu zī yín háng tè zhǒng zhǔn bèi jīn	10
+土与灰土挤密桩地基	tǔ yǔ huī tǔ jǐ mì zhuāng dì jī	10
 万军丛中取敌将首级	wàn jūn cóng zhōng qǔ dí jiāng shǒu jí	10
 王子犯法与庶民同罪	wáng zǐ fàn fǎ yǔ shù mín tóng zuì	10
 唯女子与小人难养也	wéi nǚ zǐ yǔ xiǎo rén nán yǎng yě	10
@@ -339153,6 +339183,8 @@ sort: by_weight
 出口商品挑选整理审计	chū kǒu shāng pǐn tiāo xuǎn zhěng lǐ shěn jì	10
 单位工程竣工成本决算	dān wèi gōng chéng jùn gōng chéng běn jué suàn	10
 德宏傣族景颇族自治州	dé hóng dǎi zú jǐng pō zú zì zhì zhōu	10
+地下工程防水等级标准	dì xià gōng chéng fáng shuǐ děng jí biāo zhǔn	10
+地下工程质量防水等级	dì xià gōng chéng zhì liàng fáng shuǐ děng jí	10
 地质勘探单位成本项目	dì zhì kān tàn dān wèi chéng běn xiàng mù	10
 地质勘探单位经营收入	dì zhì kān tàn dān wèi jīng yíng shōu rù	10
 地质勘探单位经营支出	dì zhì kān tàn dān wèi jīng yíng zhī chū	10
@@ -339168,6 +339200,7 @@ sort: by_weight
 躲得了初一躲不过十五	duǒ de liǎo chū yī duǒ bú guò shí wǔ	10
 恩施土家族苗族自治州	ēn shī tǔ jiā zú miáo zú zì zhì zhōu	10
 甘肃省甘南藏族自治州	gān sù shěng gān nán zàng zú zì zhì zhōu	10
+高强度螺栓设计预拉力	gāo qiáng dù luó shuān shè jì yù lā lì	10
 工程承包公司会计对象	gōng chéng chéng bāo gōng sī kuài jì duì xiàng	10
 工程承包公司收益分配	gōng chéng chéng bāo gōng sī shōu yì fēn pèi	10
 工业其他投入资金审计	gōng yè qí tā tóu rù zī jīn shěn jì	10
@@ -339272,6 +339305,7 @@ sort: by_weight
 建筑材料及设备供应审计	jiàn zhù cái liào jí shè bèi gōng yìng shěn jì	10
 喀喇沁左翼蒙古族自治县	kā lǎ qìn zuǒ yì měng gǔ zú zì zhì xiàn	10
 克孜勒苏柯尔克孜自治州	kè zī lè sū kē ěr kè zī zì zhì zhōu	10
+宽度或板的自由外伸宽度	kuān dù huò bǎn de zì yóu wài shēn kuān dù	10
 莫力达瓦达斡尔族自治旗	mò lì dá wǎ dá wò ěr zú zì zhì qí	10
 内部控制制度问题调查表	nèi bù kòng zhì zhì dù wèn tí diào chá biǎo	10
 内部控制制度文字说明书	nèi bù kòng zhì zhì dù wén zì shuō míng shū	10
@@ -339293,6 +339327,7 @@ sort: by_weight
 城市建设综合开发企业会计	chéng shì jiàn shè zōng hé kāi fā qǐ yè kuài jì	10
 地质勘探单位成本核算对象	dì zhì kān tàn dān wèi chéng běn hé suàn duì xiàng	10
 对外承包企业成本计算对象	duì wài chéng bāo qǐ yè chéng běn jì suàn duì xiàng	10
+高强度螺栓预拉力的损失值	gāo qiáng dù luó shuān yù lā lì de sǔn shī zhí	10
 基本建设投资包干节余核算	jī běn jiàn shè tóu zī bāo gān jié yú hé suàn	10
 建设银行外汇业务会计核算	jiàn shè yín háng wài huì yè wù kuài jì hé suàn	10
 建筑企业附属工业企业成本	jiàn zhù qǐ yè fù shǔ gōng yè qǐ yè chéng běn	10
