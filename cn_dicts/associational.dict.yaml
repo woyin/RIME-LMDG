@@ -4,7 +4,7 @@
 # ------- 联想词库5字及以上长词-------
 ---
 name: associational
-version: "2025-04-14 18:18"
+version: "2025-04-14 21:29"
 sort: by_weight
 ...
 阿巴拉契亚	ā bā lā qì yà	10
@@ -108262,6 +108262,7 @@ sort: by_weight
 泣涕零如雨	qì tì líng rú yǔ	10
 气体探测器	qì tǐ tàn cè qì	10
 气体调节器	qì tǐ tiáo jié qì	10
+砌体通长筋	qì tǐ tōng cháng jīn	10
 气体污染物	qì tǐ wū rǎn wù	10
 气体压缩机	qì tǐ yā suō jī	10
 七天无理由	qī tiān wú lǐ yóu	10
@@ -114601,6 +114602,7 @@ sort: by_weight
 人多力量大	rén duō lì liàng dà	10
 认房不认贷	rèn fáng bú rèn dài	10
 人防地下室	rén fáng dì xià shì	10
+人防门框墙	rén fáng mén kuàng qiáng	10
 认房又认贷	rèn fáng yòu rèn dài	10
 人干的事儿	rén gàn de shì ér	10
 人格的独立	rén gé de dú lì	10
